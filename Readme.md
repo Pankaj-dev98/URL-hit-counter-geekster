@@ -1,7 +1,7 @@
 # USER MANAGEMENT SYSTEM
 
 **Name: Pankaj Kalra, Batch: FS-11**
-[GITHUB]()
+[GITHUB](https://github.com/Pankaj-dev98/URL-hit-counter-geekster.git)
 
 ## Frameworks and languages used
 - Source code: Java 20
@@ -18,7 +18,7 @@
 	+ Get all visitors and their respective hit-counts
 	+ Get number of registered unique visitors
 
-- Source code is available at: [GITHUB]()
+- Source code is available at: [GITHUB](https://github.com/Pankaj-dev98/URL-hit-counter-geekster.git)
 
 - Database design: This application tracks number of url hits using a HashMap which maps usernames to their present URL-hits.
 
